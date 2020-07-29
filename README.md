@@ -1,1 +1,1 @@
-# Machine-Learning-and-Deep-Learning---Ineuron
+# Machine Learning and Deep Learning(Assignments)-Ineuron
